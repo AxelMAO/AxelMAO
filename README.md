@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 
 
 
-
-[![wakatime](https://wakatime.com/badge/user/c9625662-7df7-4bc4-b9f0-a23294301053.svg?style=for-the-badge)](https://wakatime.com/@c9625662-7df7-4bc4-b9f0-a23294301053) 
+ 
 <br>
 (from April 2022)
 -->
 
 <h1 align="center">Hi there 🔭, I'm Axel !</h1>
+
+[![wakatime](https://wakatime.com/badge/user/018ead16-1ad8-40f5-be78-05c1fe5d44e8/project/018ead19-9495-47cc-93b5-d6df556d8abd.svg)](https://wakatime.com/badge/user/018ead16-1ad8-40f5-be78-05c1fe5d44e8/project/018ead19-9495-47cc-93b5-d6df556d8abd)
+<br>
+(from April 2024)
 
 # My skills and tools
 
