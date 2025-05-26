@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 <!--[![wakatime](https://wakatime.com/badge/user/018ead16-1ad8-40f5-be78-05c1fe5d44e8/project/018ead19-9495-47cc-93b5-d6df556d8abd.svg)](https://wakatime.com/badge/user/018ead16-1ad8-40f5-be78-05c1fe5d44e8/project/018ead19-9495-47cc-93b5-d6df556d8abd)
 <br>
 (from April 2024)
--->
-[![wakatime](https://wakatime.com/badge/user/018ead16-1ad8-40f5-be78-05c1fe5d44e8.svg)](https://wakatime.com/@018ead16-1ad8-40f5-be78-05c1fe5d44e8)
 
+ [![wakatime](https://wakatime.com/badge/user/018ead16-1ad8-40f5-be78-05c1fe5d44e8.svg)](https://wakatime.com/@018ead16-1ad8-40f5-be78-05c1fe5d44e8)
+-->
+<a href="https://wakatime.com/@018ead16-1ad8-40f5-be78-05c1fe5d44e8"><img src="https://wakatime.com/badge/user/018ead16-1ad8-40f5-be78-05c1fe5d44e8.svg" alt="Total time coded since Apr 5 2024" /></a>
 
 
 # My skills and tools
