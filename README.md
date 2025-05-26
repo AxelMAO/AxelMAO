@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 <br>
 (from April 2024)
 -->
+[![wakatime](https://wakatime.com/badge/user/018ead16-1ad8-40f5-be78-05c1fe5d44e8.svg)](https://wakatime.com/@018ead16-1ad8-40f5-be78-05c1fe5d44e8)
+
+
+
 # My skills and tools
 
 ### Languages
